@@ -1,0 +1,12 @@
+minigame:
+  ferramenta: DIAMOND_PICKAXE
+  tentativas: 12
+  pontos_por_acerto: 1
+  pontos_por_critico: 2
+
+  barra:
+    intervalo_ticks: 1
+    zona_inicio: 340
+    zona_fim: 20
+    critico_inicio: 350
+    critico_fim: 10

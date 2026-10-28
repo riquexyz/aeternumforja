@@ -1,0 +1,7 @@
+
+name: AeternumForja
+version: '${version}'
+main: aeternumrp.aeternumForja.AeternumForja
+api-version: '1.21'
+description: Minigame de forja do AETERNUM RP
+author: Aeternum

@@ -1,0 +1,17 @@
+
+receitas:
+  espada_teste:
+    permissao: "aeternumforja.receita.espada_teste"
+
+    entrada:
+      material: "MMOITEMS:ESPADA_QUENTE"
+
+    resultados:
+      - acertos_minimos: 0
+        material: "MMOITEMS:ESPADA_PESSIMA"
+
+      - acertos_minimos: 7
+        material: "MMOITEMS:ESPADA_BOA"
+
+      - acertos_minimos: 10
+        material: "MMOITEMS:ESPADA_EXCELENTE"
